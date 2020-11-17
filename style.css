@@ -76,12 +76,20 @@ img {
   body{
     width:100%;
   }
-  #lezioni{
+  #lezioni, .row, .left, .right {
     width:100%;
-    float:none;
+    background:blue;
+
+
   }
-  #steps{
+
+  #steps, .row, .left, .central, .right {
     width: 100%;
-    float:none;
+    background:blue;
+
+  }
+  #why, .first, .second, .third{
+    width: 100%;
+    background-color: blue;
   }
   }
